@@ -1,24 +1,79 @@
-IyAtbjhuLWF1dG9tYXRpb24KRm9yIG44biBhdXRvbWF0aW9uCg==
+SXlBdGJqaHVMV0YxZEc5dFlYUnBiMjRLUm05eUlHNDRiaUJoZFhSdmJXRjBh
+Vzl1Q2c9PQpXb3JsZCBOZXdzOgotIE9uZSBtb250aCBpbnRvIHRoZSBjb25m
+bGljdCBpbiBJcmFuLCBUcnVtcCdzIGluc3RpbmN0LWRyaXZlbiB3YXIgYXBw
+cm9hY2ggaXMgbm90IHByb3ZpbmcgZWZmZWN0aXZlLgotIElyYW5pYW4gYXR0
+YWNrcyBjb250aW51ZSBhY3Jvc3MgdGhlIEd1bGYsIGhpdHRpbmcgbWFqb3Ig
+aW5kdXN0cmlhbCBzaXRlcyBpbiB0aGUgVUFFIGFuZCBCYWhyYWluLgotIFRo
+ZSBJc3JhZWxpIG1pbGl0YXJ5IGNvbmZpcm1zIGl0IGtpbGxlZCBBbGkgU2hv
+ZWliIGZyb20gSGV6Ym9sbGFoLWFmZmlsaWF0ZWQgQWwgTWFuYXIgVFYgaW4g
+YW4gSXNyYWVsaSBzdHJpa2UuCi0gU2hvcHMgYW5kIHJlc3RhdXJhbnRzIGlu
+IEVneXB0IG11c3QgY2xvc2UgZWFybHkgYXQgMjE6MDAgZm9yIGEgbW9udGgg
+ZHVlIHRvIGFuIGVuZXJneSBjcmlzaXMuCi0gUHJvdGVzdHMgYWdhaW5zdCBE
+b25hbGQgVHJ1bXAsIGR1YmJlZCAiTm8gS2luZ3MsIiBvY2N1cnJlZCBhY3Jv
+c3MgdGhlIFVTLCBpbmNsdWRpbmcgYSBtYWpvciByYWxseSBpbiBNaW5uZXNv
+dGEgd2l0aCBhIEJydWNlIFNwcmluZ3N0ZWVuIHBlcmZvcm1hbmNlLgotIEJh
+bmsgb2YgQW1lcmljYSB3aWxsIHBheSBvdXQgJDcyLjUgbWlsbGlvbiBpbiBz
+ZXR0bGVtZW50IHJlbGF0ZWQgdG8gRXBzdGVpbiBsYXdzdWl0IGFjY3VzaW5n
+IGl0IG9mIGZhY2lsaXRhdGluZyBzZXggdHJhZmZpY2tpbmcuCi0gQXVzdHJp
+YSBwcm9wb3NlcyBiYW5uaW5nIHNvY2lhbCBtZWRpYSB1c2UgZm9yIGNoaWxk
+cmVuIHVuZGVyIDE0LCBmb2xsb3dpbmcgc2ltaWxhciBtb3ZlcyBpbiBGcmFu
+Y2UgYW5kIFNwYWluLgotIFRoZSBNYWxkaXZlcyByZWplY3RzIFVLLU1hdXJp
+dGl1cyBkZWFsIG9uIENoYWdvcyBJc2xhbmRzLCB0aHJlYXRlbmluZyBpbnRl
+cm5hdGlvbmFsIGxlZ2FsIGFjdGlvbi4KLSBVUyBIb3VzZSBSZXB1YmxpY2Fu
+cyByZWplY3RlZCBhIFNlbmF0ZSBkZWFsLCBwcm9sb25naW5nIHRoZSBwYXJ0
+aWFsIFVTIGdvdmVybm1lbnQgc2h1dGRvd24sIHdvcnNlbmluZyB0cmF2ZWwg
+Y2hhb3MuCi0gSWNvbmljIGxhbmRtYXJrcyB3b3JsZHdpZGUgcGFydGljaXBh
+dGVkIGluIEVhcnRoIEhvdXIgYnkgdHVybmluZyBvZmYgbGlnaHRzIGZvciBh
+biBob3VyIHRvIHN1cHBvcnQgY2xpbWF0ZSBhY3Rpb24uCgpUZWNoIE5ld3M6
+Ci0gQW1hem9u4oCZcyBCaWcgU3ByaW5nIFNhbGUgZmVhdHVyZXMgc2lnbmlm
+aWNhbnQgZGlzY291bnRzIG9uIHNtYXJ0IGJpcmQgZmVlZGVycyBmcm9tIEJp
+cmRCdWRkeSBhbmQgTmV0dnVlLCBhbG9uZyB3aXRoIG1hbnkgb3RoZXIgdGVj
+aCBnYWRnZXRzLgotIFRoZSBBcHBsZSBNYWNpbnRvc2ggbWFya2VkIGEgbGVn
+YWN5IGV2ZW50IHdpdGggYW4gaWNvbmljIGNvbW1lcmNpYWwgYW5kIGNvbXB1
+dGVyIGRlYnV0IHRoYXQgY2hhbmdlZCB0ZWNobm9sb2d5LgotIEFwcGxl4oCZ
+cyBsb25nIGFudGl0cnVzdCBiYXR0bGUgb3ZlciB0aGUgQXBwIFN0b3JlIGNv
+bnRpbnVlcyB0byBiZSBhIGtleSB0b3BpYyBpbiB0ZWNoIGxlZ2FsIGFmZmFp
+cnMuCi0gQUkgbXVzaWMgbW9kZWwgU3VubyByZWxlYXNlZCB2ZXJzaW9uIDUu
+NSBmb2N1c2luZyBvbiBjdXN0b21pemF0aW9uLCBpbmNsdWRpbmcgdXBsb2Fk
+aW5nIHVzZXIgdm9pY2VzLgotIFJldmlldyBhbmQgcm91bmR1cCBvZiBBbWF6
+b27igJlzIEJpZyBTcHJpbmcgU2FsZSBkZWFscywgaGlnaGxpZ2h0aW5nIHNt
+YXJ0IGhvbWUgZGV2aWNlcywgcm9ib3QgdmFjdXVtcywgc3BlYWtlcnMsIGhl
+YWRwaG9uZXMsIGZpdG5lc3MgdHJhY2tlcnMsIGNoYXJnaW5nIGFjY2Vzc29y
+aWVzLCBzdHJlYW1pbmcgZGV2aWNlcywgYW5kIG1vcmUuCi0gU3RlZWxTZXJp
+ZXMgQXJjdGlzIE5vdmEgUHJvIFdpcmVsZXNzIGdhbWluZyBoZWFkc2V0IHNl
+ZXMgJDgwIGRpc2NvdW50IGR1cmluZyBBbWF6b27igJlzIEJpZyBTcHJpbmcg
+U2FsZS4KLSBUaWtUb2vigJlzIGNoYWxsZW5nZXMgaW4gaWRlbnRpZnlpbmcg
+QUktZ2VuZXJhdGVkIGFkcywgZGVzcGl0ZSBwb2xpY3kgcmVxdWlyaW5nIEFJ
+IGRpc2Nsb3N1cmVzIG9uIHByb21vdGVkIGNvbnRlbnQuCi0gTWV0YSBmb3Vu
+ZCBsaWFibGUgZm9yIGhhcm0gdG8gbWlub3JzIGluIHNvY2lhbCBtZWRpYSBz
+YWZldHkgbGF3c3VpdHMgaW4gdHdvIFVTIGp1cmlzZGljdGlvbnMsIHdpdGgg
+YXBwZWFscyBwZW5kaW5nLgotIFJldmlldyBvZiBuZXcgY296eSBhZHZlbnR1
+cmUgZ2FtZSAiVW5kZXIgVGhlIElzbGFuZCIgcmVtaW5pc2NlbnQgb2YgWmVs
+ZGEgYW5kIFN0YXJkZXcgVmFsbGV5IGV4cGVyaWVuY2VzLgotIEFuYWx5c2lz
+IG9mIG1vc3QgcG9wdWxhciB0ZWNoIHB1cmNoYXNlcyBieSBWZXJnZSByZWFk
+ZXJzIGR1cmluZyBBbWF6b27igJlzIEJpZyBTcHJpbmcgU2FsZSwgaW5jbHVk
+aW5nIHNtYXJ0IGxhbXBzLCBBaXJQb2RzIFBybyAzLCBLaW5kbGUgQ29sb3Jz
+b2Z0LCBrZXlib2FyZHMsIGFuZCBvdGhlciBhY2Nlc3Nvcmllcy4=
 World News:
-- One month into the conflict in Iran, Trump's instinct-driven war approach is not proving effective.
-- Iranian attacks continue across the Gulf, hitting major industrial sites in the UAE and Bahrain.
-- The Israeli military confirms it killed Ali Shoeib from Hezbollah-affiliated Al Manar TV in an Israeli strike.
-- Shops and restaurants in Egypt must close early at 21:00 for a month due to an energy crisis.
-- Protests against Donald Trump, dubbed "No Kings," occurred across the US, including a major rally in Minnesota with a Bruce Springsteen performance.
-- Bank of America will pay out $72.5 million in settlement related to Epstein lawsuit accusing it of facilitating sex trafficking.
-- Austria proposes banning social media use for children under 14, following similar moves in France and Spain.
-- The Maldives rejects UK-Mauritius deal on Chagos Islands, threatening international legal action.
-- US House Republicans rejected a Senate deal, prolonging the partial US government shutdown, worsening travel chaos.
-- Iconic landmarks worldwide participated in Earth Hour by turning off lights for an hour to support climate action.
+- Iran continues attacks across the Gulf, hitting major industrial sites in the UAE and Bahrain, with some injuries reported.
+- Three Lebanese journalists were killed in an Israeli strike, with the Israeli military confirming at least one victim's identity.
+- Three individuals were arrested in Paris following an attempted bomb attack outside a Bank of America branch, with France's anti-terrorism prosecutor taking over the investigation.
+- The African football chief, Veron Mosengo-Omba, resigned amid controversy following the Morocco-Senegal final.
+- Israeli police blocked the Latin Patriarch from Palm Sunday mass in Jerusalem as a safety measure after recent Iranian strikes, according to Prime Minister Netanyahu.
+- Two Australian states, Victoria and Tasmania, are offering free public transport to ease the impact of rising fuel prices linked to the Iran war.
+- Canada's New Democratic Party elected Avi Lewis as its leader, focusing on revitalizing the party and prioritizing workers' rights.
+- Across the US, "No Kings" protests rallied against former President Donald Trump, including a notable event in Minnesota with a Bruce Springsteen performance.
+- Shops and restaurants in Egypt are required to close early by 21:00 for a month due to a deepening energy crisis.
+- Bank of America agreed to pay $72.5 million in a settlement related to a lawsuit accusing it of facilitating Jeffrey Epstein's sex trafficking operation.
 
 Tech News:
-- Amazon’s Big Spring Sale features significant discounts on smart bird feeders from BirdBuddy and Netvue, along with many other tech gadgets.
-- The Apple Macintosh marked a legacy event with an iconic commercial and computer debut that changed technology.
-- Apple’s long antitrust battle over the App Store continues to be a key topic in tech legal affairs.
-- AI music model Suno released version 5.5 focusing on customization, including uploading user voices.
-- Review and roundup of Amazon’s Big Spring Sale deals, highlighting smart home devices, robot vacuums, speakers, headphones, fitness trackers, charging accessories, streaming devices, and more.
-- SteelSeries Arctis Nova Pro Wireless gaming headset sees $80 discount during Amazon’s Big Spring Sale.
-- TikTok’s challenges in identifying AI-generated ads, despite policy requiring AI disclosures on promoted content.
-- Meta found liable for harm to minors in social media safety lawsuits in two US jurisdictions, with appeals pending.
-- Review of new cozy adventure game "Under The Island" reminiscent of Zelda and Stardew Valley experiences.
-- Analysis of most popular tech purchases by Verge readers during Amazon’s Big Spring Sale, including smart lamps, AirPods Pro 3, Kindle Colorsoft, keyboards, and other accessories.
+- Amazon's third annual Big Spring Sale runs through March 31st, featuring discounts on seasonal and spring-centric items.
+- The $50 Epilogue GB Operator now includes a Retrace app for Android and iOS to check if Game Boy cartridges are authentic, although it has some reliability issues.
+- HBO plans a Harry Potter TV series adapting all seven original books, aiming to become "the streaming event of the decade."
+- Smart bird feeders from BirdBuddy and Netvue are discounted in Amazon's Big Spring Sale, featuring cameras, solar roofs, AI species identification, and apps.
+- Apple's iconic 1984 Macintosh computer and its famous Super Bowl commercial are recognized for their lasting impact on computing and marketing.
+- Apple’s prolonged antitrust battle over the App Store is highlighted, starting from Microsoft's 1998 trial targeting Apple.
+- Suno released v5.5 of its AI music model with new features allowing users to train vocal models on their own voice and customize music generation.
+- SteelSeries Arctis Nova Pro Wireless gaming headset is $80 off during Amazon’s Big Spring Sale, offering many features like active noise cancellation and swappable batteries.
+- TikTok struggles with AI-generated ads disclosure, sparking debate over transparency and labeling.
+- Meta faced legal defeats in two US trials holding them liable for harms related to social media platforms affecting minors, with ongoing appeals.
